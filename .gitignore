@@ -8,6 +8,7 @@
 .idea/**/tasks.xml
 .idea/dictionaries
 
+
 # Sensitive or high-churn files:
 .idea/**/dataSources/
 .idea/**/dataSources.ids
@@ -64,3 +65,6 @@ gradle-app.setting
 
 # # Work around https://youtrack.jetbrains.com/issue/IDEA-116898
 # gradle/wrapper/gradle-wrapper.properties
+.idea/inspectionProfiles/
+.idea/vcs.xml
+
